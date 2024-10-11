@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(236, 150, 150);
+    border-radius: 10px;
+}
+main{
+    margin-top: 10px;
+    background-color: rgb(250, 250, 250);
+    text-align: center;
+    font-family: sans-serif;
+    border-radius: 10px;
+}
+
+.CR7{
+    
+    margin: 10px 20px ;
+    background-color: rgb(212, 139, 139);
+    padding-bottom: 10px;
+    font-size: 17px;
+    border-radius: 10px;
+}
+
+img{
+    margin: 30px auto 0 auto;
+    width: 60%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+h1{
+    padding-top: 35px;
+    font-size: 46px;
+    margin-bottom: 20px;
+}
+
+
+.career{
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+}
+h2{
+    text-align: center;
+}
+
+h3{
+    padding-bottom: 20px;
+}
